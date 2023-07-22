@@ -24,6 +24,86 @@ body {
     color: #d9dcd6;
 }
 
+
+
+
+
+
+
+.header h3 {
+    word-spacing: 50x;
+    border-style:outset;
+    border-width: 3px;
+    border-color: lightblue;
+    border-radius: 3px;
+    padding: 3px;
+    text-align: right
+
+    }
+    
+    
+
+.header h2 .seo {
+    color: #d9dcd6;
+    
+}
+
+
+.header h2 {
+    display: inline-block;
+    font-size: 25px;
+}
+
+
+
+.header h3 {
+    font-size: medium;
+
+    }
+
+.header h4 {
+    font-size: medium;
+    word-spacing: 50x;
+    border-style:outset;
+    border-width: 3px;
+    border-color: lightblue;
+    border-radius: 3px;
+    padding: 3px;
+    text-align: right 
+}
+
+.header h5 {
+    font-size: medium;
+    word-spacing: 50x;
+    border-style:outset;
+    border-width: 3px;
+    border-color: lightblue;
+    border-radius: 3px;
+    padding: 3px;
+    text-align: right 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
