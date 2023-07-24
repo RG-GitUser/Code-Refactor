@@ -12,7 +12,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #bcd8d4;
 }
 
 .header h1 {
@@ -24,22 +24,6 @@ body {
     color: #d9dcd6;
 }
 
-
-
-
-
-
-
-.header h3 {
-    word-spacing: 50x;
-    border-style:outset;
-    border-width: 3px;
-    border-color: lightblue;
-    border-radius: 3px;
-    padding: 3px;
-    text-align: right
-
-    }
     
     
 
@@ -52,35 +36,62 @@ body {
 .header h2 {
     display: inline-block;
     font-size: 25px;
+    
 }
-
 
 
 .header h3 {
-    font-size: medium;
+    word-spacing: 70x;
+    border-style:solid;
+    border-width: 3px;
+    border-color: lightblue;
+    border-radius: 3px;
+    padding: 3px;
+    text-align: right
 
     }
+    
 
-.header h4 {
-    font-size: medium;
-    word-spacing: 50x;
-    border-style:outset;
-    border-width: 3px;
-    border-color: lightblue;
-    border-radius: 3px;
-    padding: 3px;
-    text-align: right 
+
+.header h3 {
+    display: inline-block;
 }
 
-.header h5 {
+
+  .header h4 {
+    display: inline-block;
+}
+
+
+
+
+.header h4 {
+    display:inline-block;
     font-size: medium;
-    word-spacing: 50x;
-    border-style:outset;
+    word-spacing: 70x;
+    border-style:solid;
     border-width: 3px;
     border-color: lightblue;
-    border-radius: 3px;
-    padding: 3px;
-    text-align: right 
+    padding: 1px;
+    text-align: center;
+}
+
+
+
+.header h5 {
+    display: inline-block;
+}
+
+
+.header h5 {
+    display:inline-block;
+    font-size: medium;
+    word-spacing: 70x;
+    border-style:solid;
+    border-width: 3px;
+    border-color: lightblue;
+    padding: 1px;
+    text-align: right;
 }
 
 
