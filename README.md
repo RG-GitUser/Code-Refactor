@@ -20,9 +20,7 @@ We can review the code to identify changes made for accessibility purposes.
 
 Here you can see examples of semantic elements used to refine the webpage for accessibility; 
 
- 
-    ![alt text](assets/images/accessibilityscreenshot.png)
-    ```
+![accessibilityscreenshot](https://github.com/RG-GitUser/Code-Refactor/assets/139709113/48e5f77b-3c9a-47eb-86be-884974d38971)
 
 ## Credits 
 
