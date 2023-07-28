@@ -24,3 +24,11 @@ Here you can see examples of semantic elements used to refine the webpage for ac
     ![alt text](assets/images/accessibilityscreenshot.png)
     ```
 
+## Credits 
+
+Full-Stack Blog: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+devdocs.io: https://devdocs.io/html-elements/
+
+Adding images to README.md file: https://www.youtube.com/watch?v=qIaWozjDyPk
+
